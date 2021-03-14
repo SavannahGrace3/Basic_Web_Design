@@ -1,0 +1,17 @@
+/* Global Styles */
+
+body {
+    background-color: #3CB9E1;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Main Styles */
+
+#container {
+    background-color: #21B96B;
+    width: 85%;
+    margin: 20px auto;
+}
