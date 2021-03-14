@@ -33,7 +33,7 @@ header {
 
 header img {
     display: block;
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
     border: 2px solid white
 }
@@ -47,7 +47,7 @@ nav {
 }
 
 nav a { 
-    background-color: #A6E329;
+    background-color: #59a031;
     color: black ;
     padding: 15px 50px;
     text-decoration: none;
@@ -69,11 +69,23 @@ main {
 
 main h1 {
     text-align: center;
+    text-shadow: #004a8f 2px 2px 2px;
 
 }
 
 main h2 {
     text-align: center;
+    text-shadow: #004a8f 2px 2px 2px;
+}
+
+main h3 {
+    text-align: center;
+    
+}
+
+main p {
+    text-align: center;
+
 }
 main img {
     display: block;
