@@ -74,6 +74,7 @@ main h1 {
 }
 
 main h2 {
+    text-align: center;
     text-shadow: #004a8f 2px 2px 2px;
 }
 
@@ -94,6 +95,7 @@ main img {
     border-radius: 20px;
     border: 3px solid white;
     box-shadow: 5px 5px 10px black;
+    padding: 10px 10px 10px;
 }
 
 
