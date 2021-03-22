@@ -1,0 +1,62 @@
+/* Global Styles */
+
+body {
+    background-color: rgb(170, 200, 255);
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: rgb(59, 59, 59);
+}
+
+a:hover {
+    color:rgb(255, 255, 255)
+}
+
+/* Mobil Styles */
+
+header {
+    background-color: rgb(255, 255, 255);
+    padding: 40px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+nav ul {
+    padding: 0%;
+    list-style-type: none;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    padding: 10;
+    border-top: 1px solid slategray;
+    font-size: 1.5em;
+}
+
+nav ul a:hover {
+    background-color: rgb(55, 58, 61);
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
