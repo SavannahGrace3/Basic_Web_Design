@@ -8,6 +8,7 @@
 <li><a href="Lab4/index.html" Target="_blank">Lab4 - Introduction to CSS</a></li>
 <li><a href="Midterm/index.html" Target="_blank">Midterm - The Sims</a></li>
 <li><a href="Lab5/index.html" Target="_blank">Lab5 - Introduction to Responsive Design</a></li>
+<li><a href="Lab6/index.html" Target="_blank">Lab6 - Responsive Design</a></li>
 </ul>
 
 
